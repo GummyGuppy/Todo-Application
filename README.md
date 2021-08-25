@@ -1,3 +1,5 @@
+This is a CRUD application that uses Firebase in order to store user-created todos. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
